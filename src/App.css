@@ -1,38 +1,120 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+a {
+  text-decoration: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.text {
+ color: white;
+ font-size: 8vw;
+ font-family: 'Press Start 2P', cursive;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.timer {
+ margin: 2rem;
+ padding: 20px;
+ margin-top: -30px;
+ -webkit-text-stroke-width: 0.5px;
+ -webkit-text-stroke-color: gray;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.timer-text {
+ color: white;
+ font-size: 5vw;
+ font-family: 'Press Start 2P', cursive;
+}
+
+.tokenomics {
+ color: white;
+ margin-top: 2rem;
+ font-size: 3vw;
+ font-family: 'Press Start 2P', cursive;
+}
+
+/* Table */
+table {
+ table-layout: fixed;
+ width: 80%;
+ margin-bottom: 8rem;
+}
+
+.tg  {
+ border-collapse:collapse;
+ border-spacing:0;
+}
+.tg td{
+ border-color:white;
+ border-style:solid;
+ border-width:1px;
+ font-family:Arial, sans-serif;
+ font-size:1.5vh;
+ overflow:hidden;
+ padding:10px 2px;
+ word-break:break-word;
+ overflow-wrap: break-word;
+}
+.tg th{
+ border-color:white;
+ border-style:solid;
+ border-width:1px;
+ font-family:Arial, sans-serif;
+ font-size:2vh;
+ font-weight:normal;
+ overflow:hidden;
+ padding:10px 5px;
+ word-break:normal;
+}
+.tg .tg-0lax{
+ text-align:center;
+ vertical-align:center;
+ color: white
+}
+
+.copy {
+ display: flex;
+ flex-direction: row;
+}
+
+.copy-text {
+ overflow: scroll;
+ background-color: #C999FF;
+ padding: 8px;
+}
+
+.feather {
   color: white;
+  margin-bottom: 60px;
+}
+.feather:hover {
+  color: #C999FF;
 }
 
-.App-link {
-  color: #61dafb;
+.main-bird {
+  width: 600px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.all-birds {
+  width: 400px;
+}
+
+@media screen and (max-width: 480px) {
+  .main-bird {
+    width: 400px;
   }
-  to {
-    transform: rotate(360deg);
+  .all-birds {
+    width: 400px;
   }
+}
+
+@media screen and (max-width: 768px) {
+  .main-bird {
+    width: 400px;
+  }
+}
+
+.bottom-social {
+  margin: 20px;
+  border: solid 1px white;
+  border-radius: 100px;
+  padding: 30px 20px
 }
