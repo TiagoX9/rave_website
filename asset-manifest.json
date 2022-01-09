@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rave_website/static/css/main.f19c99f2.css",
-    "main.js": "/rave_website/static/js/main.e2dd6179.js",
+    "main.css": "/rave_website/static/css/main.d4f5c00f.css",
+    "main.js": "/rave_website/static/js/main.e8b90aa5.js",
     "static/js/787.4149e02e.chunk.js": "/rave_website/static/js/787.4149e02e.chunk.js",
     "static/media/33.png": "/rave_website/static/media/33.6fb7663965de42a05aa0.png",
     "static/media/36.png": "/rave_website/static/media/36.87d5953789fe57825b3b.png",
     "static/media/35.png": "/rave_website/static/media/35.9a81122e19851c0847d8.png",
     "index.html": "/rave_website/index.html",
-    "main.f19c99f2.css.map": "/rave_website/static/css/main.f19c99f2.css.map",
-    "main.e2dd6179.js.map": "/rave_website/static/js/main.e2dd6179.js.map",
+    "main.d4f5c00f.css.map": "/rave_website/static/css/main.d4f5c00f.css.map",
+    "main.e8b90aa5.js.map": "/rave_website/static/js/main.e8b90aa5.js.map",
     "787.4149e02e.chunk.js.map": "/rave_website/static/js/787.4149e02e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f19c99f2.css",
-    "static/js/main.e2dd6179.js"
+    "static/css/main.d4f5c00f.css",
+    "static/js/main.e8b90aa5.js"
   ]
 }
