@@ -1,6 +1,6 @@
 {
-  "short_name": "Rave",
-  "name": "Ravendex NFT",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "logo.png",
