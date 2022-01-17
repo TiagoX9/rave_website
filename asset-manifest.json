@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ffc3c80.css",
-    "main.js": "/static/js/main.7bd67026.js",
-    "static/js/787.4149e02e.chunk.js": "/static/js/787.4149e02e.chunk.js",
-    "static/media/logo2.png": "/static/media/logo2.e3a0f96aa7d9ba7117e7.png",
-    "static/media/33.png": "/static/media/33.6fb7663965de42a05aa0.png",
-    "static/media/36.png": "/static/media/36.87d5953789fe57825b3b.png",
-    "static/media/35.png": "/static/media/35.9a81122e19851c0847d8.png",
-    "index.html": "/index.html",
-    "main.4ffc3c80.css.map": "/static/css/main.4ffc3c80.css.map",
-    "main.7bd67026.js.map": "/static/js/main.7bd67026.js.map",
-    "787.4149e02e.chunk.js.map": "/static/js/787.4149e02e.chunk.js.map"
+    "main.css": "/rave_website/static/css/main.4ffc3c80.css",
+    "main.js": "/rave_website/static/js/main.b500e3da.js",
+    "static/js/787.4149e02e.chunk.js": "/rave_website/static/js/787.4149e02e.chunk.js",
+    "static/media/logo2.png": "/rave_website/static/media/logo2.e3a0f96aa7d9ba7117e7.png",
+    "static/media/33.png": "/rave_website/static/media/33.6fb7663965de42a05aa0.png",
+    "static/media/36.png": "/rave_website/static/media/36.87d5953789fe57825b3b.png",
+    "static/media/35.png": "/rave_website/static/media/35.9a81122e19851c0847d8.png",
+    "index.html": "/rave_website/index.html",
+    "main.4ffc3c80.css.map": "/rave_website/static/css/main.4ffc3c80.css.map",
+    "main.b500e3da.js.map": "/rave_website/static/js/main.b500e3da.js.map",
+    "787.4149e02e.chunk.js.map": "/rave_website/static/js/787.4149e02e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ffc3c80.css",
-    "static/js/main.7bd67026.js"
+    "static/js/main.b500e3da.js"
   ]
 }
